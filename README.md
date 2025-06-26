@@ -60,5 +60,4 @@ Use the search bar to try cities with different weather:
 
 ---
 
-## 📂 Folder Structure
 
