@@ -10,9 +10,9 @@ A simple and responsive weather application that displays real-time weather data
 
 ### Light Theme with Blur Cards and Background Change:
 
-![App Preview](.rain_weatherweb.png)
+![App Preview](rain_weatherweb.png)
 <br>
-![Live Demo](.gif_weatherweb.gif)
+![Live Demo](gif_weatherweb.gif)
 
 
 ---
